@@ -21,7 +21,8 @@ no_index:
     - xt
 requires:
   Exporter::Lite: 0
+  Unicode::EastAsianWidth: 0
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/cho45/Text-Overflow.git
-version: 0.01
+version: 0.02
